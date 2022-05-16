@@ -2,20 +2,27 @@
     margin: 0;
     padding: 0;
 }
+
 body{
     background-color: whitesmoke;
 }
-h1{
-    color:red;
-    margin-top: 40px;
-    align-items: center;
-    justify-items: center;
-    float: center;
-}
-p{
+
+.imagediv{
+    margin-left: 350px;
     margin-top: 50px;
+}
+.listdiv{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+h1{
+    margin-bottom: 20px;
     color: green;
+}
+li{
     font-family: sans-serif;
     word-spacing: 1.5px;
-
+}
+img{
+    border-radius: 10px;
 }
