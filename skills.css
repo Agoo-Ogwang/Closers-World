@@ -4,7 +4,7 @@
 }
 
 body{
-    background-color: whitesmoke;
+    background-color: grey;
 }
 
 h1{
@@ -20,4 +20,29 @@ p{
     color: green;
     font-family: sans-serif;
     word-spacing: 1.5px;
+}
+.commdiv{
+    background-color: whitesmoke;
+    border-radius: 10px;
+    margin-left: 10px;
+    font-family: sans-serif;
+}
+.goaldiv{
+    background-color: white;
+    border-radius: 10px;
+    margin-left: 10px; 
+    font-family: sans-serif;
+}
+.presantationdiv{
+    background-color: whitesmoke;
+    border-radius: 10px;
+    margin-left: 10px; 
+    font-family: sans-serif;
+}
+.researchdiv{
+    background-color: white;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-bottom: 50px;
+    font-family: sans-serif;
 }
